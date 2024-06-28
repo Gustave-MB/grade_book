@@ -18,20 +18,31 @@ Course class.
 data folder.
 
 Below is a sample input file(course1.txt):
+
 04808E
+
 Programming and Problem Solving II
+
 Fall 2021
+
 Frank Ike
+
 Fikita, Nikita, Vikita
+
 S1000:George Williams:80:90:70:99:60
+
 S1002:Elaine Hazimana:85:86:78:99:89
+
 S1003:Peter Pathos:70:90:70:95:91
+
 S1005:Celestine Taylor:60:95:88:99:100
+
 S1006:Khalil Abdi:80:82:75:92:86
 
-* Where: First line: course id; Second line: course name; Third line: semester; 
+**Where:** First line: course id; Second line: course name; Third line: semester; 
 Fouth line: instructor; Fifth line: list of TAs; and Subsequent lines: student 
 details (roll number, name, and marks for the assignments).
-*Assumption:* All students have registered for the same five courses. All students 
+
+**Assumption:** All students have registered for the same five courses. All students 
 have done five assignments per course. Therefore, there is no missing assignment 
 mark.
