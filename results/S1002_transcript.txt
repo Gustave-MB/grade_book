@@ -1,0 +1,17 @@
+
+------------------------------------------------------
+
+S1002   Elaine Hazimana     
+
+04799E  Computer Security                     87.40  B  
+
+04801E  DSA4E                                 87.40  B  
+
+04804E  Ethical Hacking                       87.40  B  
+
+04808E  Programming and Problem Solving II    87.40  B  
+
+04811E  Data Inference and Applied ML         87.40  B  
+
+------------------------------------------------------
+

@@ -1,0 +1,17 @@
+
+------------------------------------------------------
+
+S1000   George Williams     
+
+04799E  Computer Security                     79.80  C  
+
+04801E  DSA4E                                 35.00  E  
+
+04804E  Ethical Hacking                       79.80  C  
+
+04808E  Programming and Problem Solving II    79.80  C  
+
+04811E  Data Inference and Applied ML         79.80  C  
+
+------------------------------------------------------
+

@@ -1,0 +1,85 @@
+
+------------------------------------------------------
+
+S1000   George Williams     
+
+04799E  Computer Security                     79.80  C  
+
+04801E  DSA4E                                 35.00  E  
+
+04804E  Ethical Hacking                       79.80  C  
+
+04808E  Programming and Problem Solving II    79.80  C  
+
+04811E  Data Inference and Applied ML         79.80  C  
+
+------------------------------------------------------
+
+
+------------------------------------------------------
+
+S1002   Elaine Hazimana     
+
+04799E  Computer Security                     87.40  B  
+
+04801E  DSA4E                                 87.40  B  
+
+04804E  Ethical Hacking                       87.40  B  
+
+04808E  Programming and Problem Solving II    87.40  B  
+
+04811E  Data Inference and Applied ML         87.40  B  
+
+------------------------------------------------------
+
+
+------------------------------------------------------
+
+S1003   Peter Pathos        
+
+04799E  Computer Security                     41.20  E  
+
+04801E  DSA4E                                 83.20  B  
+
+04804E  Ethical Hacking                       32.20  E  
+
+04808E  Programming and Problem Solving II    83.20  B  
+
+04811E  Data Inference and Applied ML         83.20  B  
+
+------------------------------------------------------
+
+
+------------------------------------------------------
+
+S1005   Celestine Taylor    
+
+04799E  Computer Security                     88.40  B  
+
+04801E  DSA4E                                 72.60  C  
+
+04804E  Ethical Hacking                       88.40  B  
+
+04808E  Programming and Problem Solving II    88.40  B  
+
+04811E  Data Inference and Applied ML         88.40  B  
+
+------------------------------------------------------
+
+
+------------------------------------------------------
+
+S1006   Khalil Abdi         
+
+04799E  Computer Security                     83.00  B  
+
+04801E  DSA4E                                 83.00  B  
+
+04804E  Ethical Hacking                       68.40  D  
+
+04808E  Programming and Problem Solving II    83.00  B  
+
+04811E  Data Inference and Applied ML         83.00  B  
+
+------------------------------------------------------
+
